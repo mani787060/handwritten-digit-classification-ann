@@ -134,7 +134,7 @@ The output layer uses Softmax because this is a multi-class classification probl
 
 ---
 
-## ⚙️ Model Training
+## Model Training
 
 The ANN is trained using:
 
@@ -148,7 +148,7 @@ The network adjusts its weights during training to minimize the difference betwe
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 The model is evaluated on the unseen MNIST test dataset.
 
@@ -162,7 +162,7 @@ The model achieves **high classification performance**, demonstrating that a ful
 
 ---
 
-## 🔍 Predictions
+## Predictions
 
 After training, the model can be used to predict previously unseen handwritten digits.
 
@@ -181,7 +181,7 @@ Prediction → 7
 
 ---
 
-## 💡 Key Learning
+## Key Learning
 
 This project demonstrates an important Deep Learning concept:
 
@@ -193,7 +193,7 @@ This limitation motivates the use of **Convolutional Neural Networks (CNNs)**, w
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Programming Language
 
@@ -214,7 +214,7 @@ This limitation motivates the use of **Convolutional Neural Networks (CNNs)**, w
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 handwritten-digit-classification-ann/
@@ -228,7 +228,7 @@ handwritten-digit-classification-ann/
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience with:
 
@@ -248,7 +248,7 @@ Through this project, I gained practical experience with:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
@@ -265,7 +265,7 @@ Possible improvements include:
 
 ---
 
-## 💡 Final Takeaway
+## Final Takeaway
 
 This project demonstrates how an **Artificial Neural Network can learn to classify handwritten digits directly from image pixel values**.
 
